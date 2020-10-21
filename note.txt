@@ -1,2 +1,35 @@
 Hello I am Chisaki. This is test for editing notes
 
+I am in main branch now
+
+This is 30 lines of bcit html
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+	
+		<meta charset="utf-8">
+	<meta name="author" content="BCIT">
+	<link rel="pingback" href="https://www.bcit.ca/xmlrpc.php">
+
+		<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name="apple-mobile-web-app-title" content="">
+
+		<meta name="application-name" content="BCIT">
+
+		<meta name="section" content="Home">
+
+    
+
+	
+		<script type="text/javascript">
+		    function is_browser() {
+		        return (
+		            navigator.userAgent.indexOf("Opera") !== -1 ||
+		            navigator.userAgent.indexOf("OPR") !== -1 ||
+		            navigator.userAgent.indexOf("MSIE") !== -1 || // IE10 and below
+		            navigator.userAgent.indexOf("Trident") !== -1 || // IE11
+		            navigator.userAgent.indexOf("Edge") !== -1 ||
+		            navigator.userAgent.indexOf("Edg") !== -1 ||
